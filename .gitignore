@@ -1,0 +1,7 @@
+# Ignore blockchain data and DBs
+data/
+chaindata/
+ancients/
+logs/
+*.log
+.env
